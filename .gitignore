@@ -1,0 +1,11 @@
+# Ignore large datasets
+*.csv
+*.xlsx
+normal-dataset/
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore model files (optional, but recommended if they are huge)
+*.pkl
